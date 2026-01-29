@@ -1,0 +1,9 @@
+networkx
+numpy
+scikit-learn
+sentence-transformers
+pdfplumber
+google-generativeai
+python-dotenv
+streamlit
+watchdog
