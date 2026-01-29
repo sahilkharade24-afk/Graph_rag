@@ -21,6 +21,8 @@ connections.
 the interface of our project is look like 
 <img width="1898" height="945" alt="Screenshot 2026-01-27 155230" src="https://github.com/user-attachments/assets/19224b02-eac1-4c42-a3e9-67f13a91bf79" />
 
+first you upload you document here upload section then it build the graph of uploading doc , then you ask questions related to document in chapbot section , confirmly it gives you the correct and relevant answers.
+
 
 
 
